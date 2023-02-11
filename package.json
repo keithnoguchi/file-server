@@ -1,0 +1,9 @@
+{
+  "name": "file-server",
+  "version": "0.0.1",
+  "description": "A file server",
+  "main": "main.js",
+  "repository": "https://github.com/keithnoguchi/file-server",
+  "author": "Keith Noguchi <keith@noguchi.us>",
+  "license": "MIT"
+}
