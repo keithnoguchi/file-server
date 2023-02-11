@@ -9,8 +9,8 @@ A file server, as in [Eloquent JavaScript].
 It's as simple as:
 
 ```
-$ yarn install
-$ yarn run dev
+$ yarn
+$ yarn dev
 ```
 
 Happy Hacking!
