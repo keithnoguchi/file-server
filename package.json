@@ -5,5 +5,12 @@
   "main": "main.js",
   "repository": "https://github.com/keithnoguchi/file-server",
   "author": "Keith Noguchi <keith@noguchi.us>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "fmt": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
+    "check": "prettier */*.js \"*/**/*{.js,.ts}\" --check"
+  },
+  "dependencies": {
+    "prettier": "^2.8.4"
+  }
 }
