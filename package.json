@@ -7,9 +7,9 @@
   "author": "Keith Noguchi <keith@noguchi.us>",
   "license": "MIT",
   "scripts": {
-    "fmt": "prettier *.js -w",
-    "check": "prettier *.js --check",
-    "dev": "node main.js"
+    "dev": "node src/main.js",
+    "fmt": "prettier **/*.js -w",
+    "check": "prettier **/*.js --check"
   },
   "dependencies": {
     "prettier": "^2.8.4"
