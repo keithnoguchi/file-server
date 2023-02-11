@@ -4,4 +4,13 @@
 
 A file server, as in [Eloquent JavaScript].
 
+## Run
+
+It's as simple as:
+
+```
+$ yarn install
+$ yarn run dev
+```
+
 Happy Hacking!
